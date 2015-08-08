@@ -25,6 +25,7 @@ namespace Prism.Modularity
         public ModuleNotFoundException(string message)
             : base(message)
         {
+
         }
 
         /// <summary>
