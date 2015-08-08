@@ -30,8 +30,6 @@ namespace Prism.Modularity
             if (loggerFacade == null)
             {
                 throw new ArgumentNullException("loggerFacade");
-
-
             }
 
             this.serviceLocator = serviceLocator;
